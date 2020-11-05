@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.ocp4.chx.osecloud.com"
+  host: "bgd.apps.sharedocp4upi45.lab.upshift.rdu2.redhat.com"
   port:
     targetPort: 8080
   to:
