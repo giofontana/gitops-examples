@@ -4,10 +4,11 @@ metadata:
   creationTimestamp: null
   labels:
     app: bgd
+    router: prod
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.sharedocp4upi45.lab.upshift.rdu2.redhat.com"
+  host: "bgd.apps.ocp.pbh.gov.br"
   port:
     targetPort: 8080
   to:
